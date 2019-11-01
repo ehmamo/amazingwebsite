@@ -7,10 +7,10 @@
 3. Test
 
 # Discussion
-**What you learned**
+* What you learned
 * How you will *apply* it
 * What you still want to know
 
 
 
-[This is a link](https://bing.com)
+[More information](https://bing.com)
