@@ -1,5 +1,5 @@
 # Introduction
-## Intro text
+## *Intro text*
 
 # Agenda
 1. Overview
